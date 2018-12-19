@@ -12,6 +12,7 @@ const app = express();
 let server;
 
 function saveData(){
+
 	productData.remove({}, function(){
 
 	});

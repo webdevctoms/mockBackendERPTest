@@ -6,7 +6,8 @@
   "scripts": {
   	"start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "setup": "node ./products/setUp.js"
+    "setup": "node ./products/setUp.js",
+    "dev":"nodemon server.js"
   },
   "author": "Michael Peterson",
   "license": "ISC",
