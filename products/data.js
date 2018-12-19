@@ -6,7 +6,7 @@ const products = [
 		quantity:5,
 		lastModified: "26-jun-18",
 		price:5.00,
-		class:"class 1",
+		classCode:"class 1",
 		description: " a description"
 	},
 	{
@@ -16,7 +16,7 @@ const products = [
 		quantity:7,
 		lastModified: "26-jun-18",
 		price:7.00,
-		class:"class 1",
+		classCode:"class 1",
 		description: " a description"
 	},
 	{
@@ -26,7 +26,7 @@ const products = [
 		quantity:5,
 		lastModified: "26-jun-18",
 		price:5.00,
-		class:"class 1",
+		classCode:"class 1",
 		description: " a description"
 	},
 	{
@@ -36,7 +36,7 @@ const products = [
 		quantity:8,
 		lastModified: "26-jun-18",
 		price:15.00,
-		class:"class 2",
+		classCode:"class 2",
 		description: "ctoms rash guard"
 	},
 	{
@@ -46,7 +46,7 @@ const products = [
 		quantity:23,
 		lastModified: "26-jun-18",
 		price:10.00,
-		class:"class 2",
+		classCode:"class 2",
 		description: " a description"
 	},
 ];
