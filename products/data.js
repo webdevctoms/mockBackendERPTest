@@ -11,7 +11,7 @@ const products = [
 	},
 	{
 		id:2,
-		name:"test product 2",
+		name:"celox",
 		images:["link1","link2"],
 		quantity:7,
 		lastModified: "26-jun-18",
@@ -21,7 +21,7 @@ const products = [
 	},
 	{
 		id:3,
-		name:"test product 3",
+		name:"pepsi",
 		images:["link1","link2"],
 		quantity:5,
 		lastModified: "26-jun-18",

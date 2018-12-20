@@ -6,7 +6,7 @@ const {KEY} = require("../config");
 router.get("/",(req,res) => {
 	headerAuth = req.get("Authorization");
 	if(headerAuth !== KEY || !headerAuth){
-		return res.json({
+		return res.status(401).json({
 			err:"Unauthorized"
 		});
 	}
